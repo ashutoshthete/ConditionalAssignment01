@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.0</TargetFramework>
-    <StartupObject>ConditionalAssignment01.Magicnumber</StartupObject>
+    <StartupObject>ConditionalAssignment01.Tqloop.loopex1</StartupObject>
     <ApplicationIcon />
     <Win32Resource />
   </PropertyGroup>
