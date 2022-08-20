@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.0</TargetFramework>
-    <StartupObject>ConditionalAssignment01.Snumber</StartupObject>
+    <StartupObject>ConditionalAssignment01.TQexercise20aug.TQloop14</StartupObject>
     <ApplicationIcon />
     <Win32Resource />
   </PropertyGroup>
