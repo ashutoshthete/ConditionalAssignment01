@@ -18,6 +18,7 @@ namespace ConditionalAssignment01
                 int r = num % 10;
                 sum = sum + r;
                 num = num / 10;
+                
             }
             
             

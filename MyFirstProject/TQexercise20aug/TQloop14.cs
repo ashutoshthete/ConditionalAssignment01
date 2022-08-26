@@ -17,9 +17,10 @@ namespace ConditionalAssignment01.TQexercise20aug
             {
 
                 f = f * i;
-                Sum += f;
+                Sum=Sum+f;
             }
             Console.WriteLine(Sum);
+
 
         }
 
