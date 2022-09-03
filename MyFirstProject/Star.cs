@@ -246,8 +246,40 @@ namespace ConditionalAssignment01
                 Console.WriteLine();
             }
 
+            Console.WriteLine("\n");
 
+            for(int c = 1; c <= 5; c++)
+            {
+                for(int r = 1; r < c; r++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("\n");
+            for(int r = 1; r <= 8; r++)
+            {
+                for(int c = 1; c <= r; c++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("\n");
            
+            for(int r = 1; r <= 5; r++)
+            {
+                for(int c = 5; c >= r; c--)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+
+
+
         }
     }
 }
